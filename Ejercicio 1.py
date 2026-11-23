@@ -1,7 +1,7 @@
 # Archivo: ejercicio 1 
 # Curso: Principios de Programación 1 (SOFT-01)
 # Autor: Sury Arias 
-# Fecha: 22 de noviembre, 2026
+# Fecha: Nov 22 
 # Descripción: Simulación del control de temperatura de una cámara experimental.
 
 # Entrada de datos
